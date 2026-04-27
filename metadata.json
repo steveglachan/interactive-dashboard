@@ -1,0 +1,6 @@
+{
+  "name": "Sales Dashboard View",
+  "description": "Interactive data dashboard visualizing sample sales order data with Recharts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
